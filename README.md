@@ -1,4 +1,4 @@
-![GitHub metrics](https://metrics.lecoq.io/Sxtanna)
+![GitHub metrics](https://metrics.lecoq.io/Sxtanna?languages=1&pagespeed=1&isocalendar=1&followup=1)
 
 
 <br />

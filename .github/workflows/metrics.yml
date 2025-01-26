@@ -40,10 +40,10 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_url: .user.website
           plugin_repositories: yes
-          plugin_repositories_featured: Sxtanna/odin, Sxtanna/korm
+          plugin_repositories_featured: Sxtanna/odin, Sxtanna/korm, Sxtanna/arcade
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100
-          plugin_wakatime: yes
+          plugin_wakatime: false
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 30
           plugin_wakatime_limit: 5
